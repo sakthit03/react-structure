@@ -1,0 +1,13 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+h1, p {
+  font-family: Lato;
+}
+
+.buble_preloader{
+  position: absolute;
+  vertical-align: middle;
+}
+
+.menu{
+  list-style: none;
+}
